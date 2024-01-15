@@ -1,0 +1,1 @@
+String urlAGW = '[URLを記述]';
